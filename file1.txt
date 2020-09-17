@@ -1,5 +1,13 @@
 more content in file1.
 new content in dev branch.
 
+<<<<<<< HEAD
 
 new content in master.
+=======
+more content in dev branch。
+>>>>>>> dev
+
+
+
+confiict content
